@@ -1,10 +1,10 @@
 # <p align="center">Hi there, I`m Dmytro 👋</p>
 
 ### About Me
- - I’m junior Front-end developer.
- - I’m currently learning JavaScript, React.
- - In my spare time, I create beautiful and productive applications.
- - [My resume](https://savchyndd.github.io/resume/)
+ - :telescope: I’m junior Front-end developer.
+ - :seedling: I’m currently learning JavaScript, React.
+ - :milky_way: In my spare time, I create beautiful and productive applications.
+ - :octocat: [My resume](https://savchyndd.github.io/resume/)
 ---
 
 
