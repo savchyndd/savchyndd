@@ -30,8 +30,8 @@
 
 ### Courses 
 - [GoIT Full Stack Developer](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#home-work-goit-course-full-stack-developer)   
-  - [x] [HTML&CSS](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#html--css)   
-  - [х] [JavaScript](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#javascript)   
+  - [x] [HTML&CSS](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#html--css)      
+  - [x] [JavaScript](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#javascript)      
 ---
 
 ### Connect with me
