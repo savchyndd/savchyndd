@@ -9,11 +9,11 @@
 
 
 ### Projects 
-- [Ice Cream](https://savchyndd.github.io/team-project-ic/)
-- [Web Studio](https://savchyndd.github.io/web-studio/)
-- [Banderogus](https://savchyndd.github.io/goit-test-drive/)
-- [Britlix](https://savchyndd.github.io/goit-britlex/)
-- [7 Wonders of the world](https://savchyndd.github.io/seven-wonders-world/)
+- [Ice Cream](https://savchyndd.github.io/team-project-ic/) [[Github]()]
+- [Web Studio](https://savchyndd.github.io/web-studio/) [[Github]()]
+- [Banderogus](https://savchyndd.github.io/goit-test-drive/) [[Github]()]
+- [Britlix](https://savchyndd.github.io/goit-britlex/) [[Github]()]
+- [7 Wonders of the world](https://savchyndd.github.io/seven-wonders-world/) [[Github]()]
 ---
 
 
@@ -31,7 +31,8 @@
 ### Courses 
 - [GoIT Full Stack Developer](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#home-work-goit-course-full-stack-developer)   
   - [x] [HTML&CSS](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#html--css)      
-  - [x] [JavaScript](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#javascript)      
+  - [x] [JavaScript](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#javascript) 
+  - [ ] [React](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#react)      
 ---
 
 ### Connect with me
