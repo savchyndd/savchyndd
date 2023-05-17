@@ -11,7 +11,7 @@
 ### Projects 
 - [Ice Cream](https://savchyndd.github.io/team-project-ic/) [[Github](https://github.com/savchyndd/team-project-ic)]
 - [Web Studio](https://savchyndd.github.io/web-studio/) [[Github](https://github.com/savchyndd/web-studio)]
-- [Banderogus](https://savchyndd.github.io/goit-test-drive/) [[Github](https://github.com/savchyndd/banderogus)]
+- [Banderogus](https://savchyndd.github.io/banderogus/) [[Github](https://github.com/savchyndd/banderogus)]
 - [Britlix](https://savchyndd.github.io/britlex/) [[Github](https://github.com/savchyndd/britlex)]
 - [7 Wonders of the world](https://savchyndd.github.io/seven-wonders-world/) [[Github](https://github.com/savchyndd/seven-wonders-world)]
 ---
