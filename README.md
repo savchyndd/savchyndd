@@ -8,12 +8,16 @@
 ---
 
 
-### Projects 
+### Team projects 
+- [Filmoteka](https://dariahalai.github.io/filmoteka-project/) [[Github](https://github.com/dariahalai/filmoteka-project)]
 - [Ice Cream](https://savchyndd.github.io/team-project-ic/) [[Github](https://github.com/savchyndd/team-project-ic)]
+
+### Pet projects 
 - [Web Studio](https://savchyndd.github.io/web-studio/) [[Github](https://github.com/savchyndd/web-studio)]
-- [Banderogus](https://savchyndd.github.io/banderogus/) [[Github](https://github.com/savchyndd/banderogus)]
 - [Britlix](https://savchyndd.github.io/britlex/) [[Github](https://github.com/savchyndd/britlex)]
+- [Banderogus](https://savchyndd.github.io/banderogus/) [[Github](https://github.com/savchyndd/banderogus)]
 - [7 Wonders of the world](https://savchyndd.github.io/seven-wonders-world/) [[Github](https://github.com/savchyndd/seven-wonders-world)]
+
 ---
 
 
