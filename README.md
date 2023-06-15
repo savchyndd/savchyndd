@@ -13,6 +13,7 @@
 - [Ice Cream](https://savchyndd.github.io/team-project-ic/) [[Github](https://github.com/savchyndd/team-project-ic)]
 
 ### Pet projects 
+- [ContactSync](https://savchyndd.github.io/contact-sync/) [[Github](https://github.com/savchyndd/contact-sync)]
 - [Web Studio](https://savchyndd.github.io/web-studio/) [[Github](https://github.com/savchyndd/web-studio)]
 - [Britlix](https://savchyndd.github.io/britlex/) [[Github](https://github.com/savchyndd/britlex)]
 - [Banderogus](https://savchyndd.github.io/banderogus/) [[Github](https://github.com/savchyndd/banderogus)]
@@ -29,14 +30,16 @@
 
 | **Languages** | **Tools** |
 |---------------|-----------|
-| <img src="https://user-images.githubusercontent.com/96209694/197349404-84265127-4f0e-4c09-870c-b8fa2aa1fdde.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349416-a35cbd14-1553-49d3-b4e1-43c50f50bb7e.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349421-fe45089b-2d88-4c5a-bc91-84cec9f67fd0.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349430-7ebc6bc6-feec-4442-bc84-d78dd70f4595.png" style="width:50px; height:50px"> | <img src="https://user-images.githubusercontent.com/96209694/197349543-a4c2643a-edc4-4bae-98ca-2c0d21a0ccd7.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349557-da93dd89-1999-4a45-9eee-4918d2854d1d.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349632-5ae55138-5f75-41f8-a255-9580f41d3eab.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349689-1e6ee8b1-7c3f-429b-9bc7-2c03f6cd33fa.png" style="width:50px; height:50px"> |
+| <img src="https://user-images.githubusercontent.com/96209694/197349404-84265127-4f0e-4c09-870c-b8fa2aa1fdde.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349416-a35cbd14-1553-49d3-b4e1-43c50f50bb7e.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349421-fe45089b-2d88-4c5a-bc91-84cec9f67fd0.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349430-7ebc6bc6-feec-4442-bc84-d78dd70f4595.png" style="width:50px; height:50px"> | <img src="https://user-images.githubusercontent.com/96209694/197349543-a4c2643a-edc4-4bae-98ca-2c0d21a0ccd7.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349557-da93dd89-1999-4a45-9eee-4918d2854d1d.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349632-5ae55138-5f75-41f8-a255-9580f41d3eab.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349689-1e6ee8b1-7c3f-429b-9bc7-2c03f6cd33fa.png" style="width:50px; height:50px">  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="width:80px; height:50px"> |
 ---
 
 ### Courses 
 - [GoIT Full Stack Developer](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#home-work-goit-course-full-stack-developer)   
   - [x] [HTML&CSS](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#html--css)      
   - [x] [JavaScript](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#javascript) 
-  - [ ] [React](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#react)      
+  - [x] [React](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#react)  
+  - [ ] [NodeJs](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#nodejs)      
+      
 ---
 
 ### Connect with me
