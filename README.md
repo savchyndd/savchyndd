@@ -38,7 +38,7 @@
   - [x] [HTML&CSS](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#html--css)      
   - [x] [JavaScript](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#javascript) 
   - [x] [React](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#reactjs)  
-  - [ ] [NodeJs](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#nodejs)      
+  - [x] [NodeJs](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#nodejs)      
       
 ---
 
